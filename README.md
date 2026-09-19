@@ -28,7 +28,7 @@ A web application for searching and browsing images using the Pixabay API.
 
 ## Live Demo
 
-[GitHub Pages](https://serdiukserhii.github.io/pixabay-image-search/)
+[Live Pages](https://serdiukserhii.github.io/pixabay-image-search/)
 
 [GitHub](https://github.com/SerdiukSerhii/pixabay-image-search)
 
